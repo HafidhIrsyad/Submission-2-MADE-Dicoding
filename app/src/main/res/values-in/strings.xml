@@ -1,0 +1,256 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="movie">FILM</string>
+    <string name="tv_show">ACARA TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="name_tvshows">Nama Acara TV</string>
+    <string name="rating_movies">Skor Pengguna</string>
+    <string name="language_movies">Bahasa</string>
+    <string name="runtime_movies">Durasi</string>
+    <string name="crew_movies">Kru Unggulan</string>
+    <string name="genre_movies">Genre</string>
+    <string name="overview_movies">Ikhtisar</string>
+    <string name="keyword_movies">Kata Kunci</string>
+    <string name="poster_movies">Poster Film</string>
+    <string name="lorem">wortel lorem ipsum</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string-array name="data_name_movies">
+        <item>Aquaman (2018)</item>6
+        <item>Avengers: Infinity War (2018)</item>
+        <item>Bumblebee (2018)</item>
+        <item>Creed II (2018)</item>4
+        <item>Once Upon a Deadpool (2018)</item>
+        <item>Dragon Ball Super: Broly (2018)</item>
+        <item>Glass (2019)</item>
+        <item>Mortal Engines (2018)</item>3
+        <item>Robin Hood (2018)</item>2
+        <item>Spider-Man: Into the Spider-Verse (2018)</item>1
+        <item>Venom (2018)</item>
+    </string-array>
+    <string-array name="data_description_movies">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara setengah manusia, setengah saudara lelaki Atlantis dan pewaris sejati takhta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menanggung Deadpool 2 PG-13 rendition Deadpool 2 sebagai kisah Putri Pengantin yang penuh dengan keajaiban, keajaiban, dan nol F.</item>
+        <item>Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan oleh seorang Saiyan yang disebut \'Broly\' yang belum pernah mereka lihat sebelumnya. Orang-orang Saiyan seharusnya hampir sepenuhnya musnah dalam kehancuran Planet Vegeta, jadi apa yang dilakukan orang ini di Bumi? Pertemuan antara tiga Saiyan yang telah mengikuti takdir yang sangat berbeda ini berubah menjadi pertempuran yang luar biasa, dengan bahkan Frieza (kembali dari Neraka) terperangkap dalam campuran.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+    <string-array name="data_name_tvshows">
+        <item>Arrow (2012)</item>
+        <item>Doom Patrol (2019)</item>
+        <item>Dragon Ball (1986)</item>
+        <item>Fairy Tail (2009)</item>
+        <item>The Flash (2014)</item>
+        <item>Gotham (2014)</item>
+        <item>Marvels Iron Fist (2017)</item>
+        <item>Naruto Shippūden (2007)</item>
+        <item>Supergirl (2015)</item>
+        <item>Supernatural (2005)</item>
+        <item>The Simpsons (1989)</item>
+    </string-array>
+    <string-array name="data_language_movies">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+    </string-array>
+    <string-array name="data_language_tvshows">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+    </string-array>
+    <string-array name="data_runtime_movies">
+        <item>2j 24m</item>
+        <item>2j 29m</item>
+        <item>1j 54m</item>
+        <item>2j 10m</item>
+        <item>1j 57m</item>
+        <item>1j 41m</item>
+        <item>2j 9m</item>
+        <item>2j 9m</item>
+        <item>1j 56m</item>
+        <item>1j 57m</item>
+        <item>1j 52m</item>
+    </string-array>
+    <string-array name="data_runtime_tvshows">
+        <item>42m</item>
+        <item>60m</item>
+        <item>25m</item>
+        <item>25m</item>
+        <item>44m</item>
+        <item>43m, 60m</item>
+        <item>55m</item>
+        <item>22m</item>
+        <item>42m</item>
+        <item>45m</item>
+        <item>22m</item>
+    </string-array>
+    <string-array name="data_rating_movies">
+        <item>68% Skor Pengguna</item>
+        <item>83% Skor Pengguna</item>
+        <item>65% Skor Pengguna</item>
+        <item>67% Skor Pengguna</item>
+        <item>69% Skor Pengguna</item>
+        <item>74% Skor Pengguna</item>
+        <item>65% Skor Pengguna</item>
+        <item>60% Skor Pengguna</item>
+        <item>58% Skor Pengguna</item>
+        <item>84% Skor Pengguna</item>
+        <item>66% Skor Pengguna</item>
+    </string-array>
+    <string-array name="data_rating_tvshows">
+        <item>58% Skor Pengguna</item>
+        <item>62% Skor Pengguna</item>
+        <item>70% Skor Pengguna</item>
+        <item>64% Skor Pengguna</item>
+        <item>66% Skor Pengguna</item>
+        <item>68% Skor Pengguna</item>
+        <item>61% Skor Pengguna</item>
+        <item>75% Skor Pengguna</item>
+        <item>58% Skor Pengguna</item>
+        <item>73% Skor Pengguna</item>
+        <item>71% Skor Pengguna</item>
+    </string-array>
+    <string-array name="data_crew_movies">
+        <item>James Wan, Will Beall, Paul Norris, Mort Weisinger, David Leslie Johnson-McGoldrick, Geoff Johns</item>
+        <item>Joe Russo, Anthony Russo, Stephen McFeely, Christopher Markus</item>
+        <item>Christina Hodson, Travis Knight</item>
+        <item>Sylvester Stallone, Steven Caple Jr., Juel Taylor, Sascha Penn, Cheo Hodari Coker</item>
+        <item>David Leitch, Paul Wernick, Ryan Reynolds, Rhett Reese</item>
+        <item>Akira Toriyama, Tatsuya Nagamine</item>
+        <item>M. Night Shyamalan</item>
+        <item>Christian Rivers, Philip Reeve, Philippa Boyens, Fran Walsh, Peter Jackson</item>
+        <item>Ben Chandler, Otto Bathurst, David James Kelly</item>
+        <item>Rodney Rothman, Phil Lord, Steve Ditko, Stan Lee, Bob Persichetti, Peter Ramsey</item>
+        <item>Ruben Fleischer, Mike Zeck, David Michelinie, Todd McFarlane, Kelly Marcel, Jeff Pinkner, Scott Rosenberg</item>
+    </string-array>
+    <string-array name="data_crew_tvshows">
+        <item>Greg Berlanti, Marc Guggenheim, Andrew Kreisberg</item>
+        <item>Jeremy Carver</item>
+        <item>Akira Toriyama</item>
+        <item>Tetsuya Kakihara</item>
+        <item>Geoff Johns, Andrew Kreisberg</item>
+        <item>Bruno Heller</item>
+        <item>Scott Buck</item>
+        <item>Junko Takeuchi</item>
+        <item>Greg Berlanti, Andrew Kreisberg</item>
+        <item>Eric Kripke</item>
+        <item>Matt Groening</item>
+    </string-array>
+    <string-array name="data_genres_movies">
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Aksi, Petualangan, Fiksi ilmiah</item>
+        <item>Drama</item>
+        <item>Komedi, Aksi</item>
+        <item>Aksi, Animasi, Fantasi, Petualangan, Komedi, Fiksi ilmiah</item>
+        <item>Thriller, Drama, Fiksi ilmiah</item>
+        <item>Petualangan, Fantasi</item>
+        <item>Petualangan, Aksi, Thriller</item>
+        <item>Aksi, Petualangan, Animasi, Fiksi ilmiah, Komedi</item>
+        <item>Aksi, Fiksi Ilmiah</item>
+    </string-array>
+    <string-array name="data_genres_tvshows">
+        <item>Kejahatan, Drama, Misteri, Aksi, Petualangan</item>
+        <item>SCI-FI, Fantasi, Aksi, Petualangan</item>
+        <item>Komedi, SCI-FI, Fantasi, Animasi, Aksi, Petualangan</item>
+        <item>Aksi, Petualangan, Animasi, SCI-FI, Fantasi</item>
+        <item>Drama, SCI-FI, Fantasi</item>
+        <item>Drama, Fantasi, Kejahatan</item>
+        <item>Aksi, Petualangan, Kejahatan, Drama, SCI-FI, Fantasi</item>
+        <item>Animasi, Komedi, Drama</item>
+        <item>Aksi, Petualangan, Drama, Fiksi ilmiah</item>
+        <item>Drama, Misteri, SCI-FI, Fantasi</item>
+        <item>Animation, Comedy</item>
+    </string-array>
+    <string-array name="data_keywords_movies">
+        <item>Komik DC, Atlantis, Half-brother, Pahlawan super, Berdasarkan komik, Royalti, Hiu, DC memperluas semesta</item>
+        <item>Sihir, Pengorbanan, Pahlawan Super, Berdasarkan komik, Luar Angkasa, Medan Perang, Semesta sinematik Marvel, objek magis, Kekuatan super</item>
+        <item>Teknologi, Berbasis mainan, Transformers, Robot, Spin off, Autobot, 1980-an</item>
+        <item>Ukraina, Olahraga, Sekuel, Los angeles, Tinju, Kiev, Cincin kotak</item>
+        <item>Berdasarkan komik, Natal</item>
+        <item>Pertempuran luar angkasa, Transformasi, Kebangkitan, ras Alien</item>
+        <item>Sekuel, Pahlawan Super, Kekuatan super, Toko buku komik, Rumah sakit jiwa, Penyakit jiwa, Kepribadian ganda</item>
+        <item>Berdasarkan novel atau buku, Dystopia, Steampunk, Wasteland, Revenge, Post-apocalyptic, Futuristic vehicle</item>
+        <item>Sheriff, Robin hood, Pemanah, Pencuri, Steampunk, Nottingham, Hoodie, Abad Pertengahan, hutan Sherwood, abad pertengahan</item>
+        <item>Pahlawan super, Berdasarkan komik, Alternate universe, After Credits Stinger</item>
+        <item>San francisco, Pesawat Luar Angkasa, Anti hero, Pahlawan super, Spin off, Percobaan genetik, Alien-life-form, Berdasarkan komik</item>
+    </string-array>
+    <string-array name="data_keywords_tvshows">
+        <item>Komik DC, Pahlawan super, Berdasarkan komik, tim Pahlawan super, main hakim sendiri</item>
+        <item>Komik DC, Berdasarkan komik, tim Pahlawan super</item>
+        <item>Seni Bela Diri, Kekuatan Super, Anime</item>
+        <item>Sihir, Antropomorfisme, Berdasarkan Manga, Storytelling, Penyihir, Shounen, Anime, Waktu berlalu</item>
+        <item>Berdasarkan komik, Komik DC, Pahlawan super, Kecepatan, Tenaga super, Pahlawan super bertopeng</item>
+        <item>Komik DC, Rumah Sakit jiwa, Berdasarkan Komik, Kekuatan super, Penjahat Super, Cerita Asli</item>
+        <item>Seni Bela Diri, Pahlawan super, Berbasiskan Komik, Kekuatan Super, Marvel sinematik semesta</item>
+        <item>Pahlawan, Pertarungan, Penjahat, Berdasarkan Komik, Sekuel, Ninja, Naruto Shippuden, Seni bela diri, Ninjutsu</item>
+        <item>Komik DC, Pahlawan super, Berdasarkan komik</item>
+        <item>Raksasa, Malaikat, Gaib, Paranormal, Hantu, Pengusiran setan</item>
+        <item>Ibu, Bayi, Kakak, Rumah, Ayah, Kakak</item>
+    </string-array>
+    
+    <string-array name="data_description_tvshows">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Lalu suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan.</item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, ia adalah anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.</item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui dari kisah Gordon dan kebangkitannya dari detektif pemula menjadi Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman sang ular seperti Shinobi, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.</item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika ... dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala mereka, melawan semua jenis ancaman gaib yang mereka temui di sepanjang jalan.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+    </string-array>
+    <array name="data_poster_movies">
+        <item>@drawable/movies_poster_aquaman</item>
+        <item>@drawable/movies_poster_avengerinfinity</item>
+        <item>@drawable/movies_poster_bumblebee</item>
+        <item>@drawable/movies_poster_creed</item>
+        <item>@drawable/movies_poster_deadpool</item>
+        <item>@drawable/movies_poster_dragonball</item>
+        <item>@drawable/movies_poster_glass</item>
+        <item>@drawable/movies_poster_mortalengine</item>
+        <item>@drawable/movies_poster_robinhood</item>
+        <item>@drawable/movies_poster_spiderman</item>
+        <item>@drawable/movies_poster_venom</item>
+    </array>
+    <array name="data_poster_tvshows">
+        <item>@drawable/tvshow_poster_arrow</item>
+        <item>@drawable/tvshow_poster_doom_patrol</item>
+        <item>@drawable/tvshow_poster_dragon_ball</item>
+        <item>@drawable/tvshow_poster_fairytail</item>
+        <item>@drawable/tvshow_poster_flash</item>
+        <item>@drawable/tvshow_poster_gotham</item>
+        <item>@drawable/tvshow_poster_iron_fist</item>
+        <item>@drawable/tvshow_poster_naruto_shipudden</item>
+        <item>@drawable/tvshow_poster_supergirl</item>
+        <item>@drawable/tvshow_poster_supernatural</item>
+        <item>@drawable/tvshow_poster_the_simpson</item>
+    </array>
+</resources>
